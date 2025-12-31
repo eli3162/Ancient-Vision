@@ -17,4 +17,4 @@ Buy & Print all nesesarry Items:
 
 Assemble!
 
-![Ancient Vision App Icon](/vision_icon.png)
+![Ancient Vision App Icon](https://github.com/user-attachments/assets/092609b8-9781-4ac7-8195-a708f4d5679f)
