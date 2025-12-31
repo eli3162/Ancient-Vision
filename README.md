@@ -17,4 +17,4 @@ Buy & Print all nesesarry Items:
 
 Assemble!
 
-![Ancient Vision App Icon](vision_icon.png)
+![Ancient Vision App Icon](/vision_icon.png)
